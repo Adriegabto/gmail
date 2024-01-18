@@ -8,7 +8,8 @@
             <a href="#" class="navbar-link">CONNEXION</a>
             <a href="#" class="navbar-link navbar-link-important">CRÉER UN COMPTE</a>
         </div>
-    </nav>```
+</nav>
+```
 > nav bar composé de div avec le logo et de 3 attribut "a" qui font office de boutton
 
 ![AUR license](https://img.shields.io/aur/license/c)
